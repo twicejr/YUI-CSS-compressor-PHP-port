@@ -20,6 +20,8 @@
  * by Yahoo! Inc. under the BSD (revised) open source license.
  */
 
+namespace CSSmin;
+
 class CSSmin
 {
     const NL = '___YUICSSMIN_PRESERVED_NL___';
